@@ -1,8 +1,5 @@
-"""
-Gustavo Almeida Santos - 12011EMT022
-"""
-import asyncio
 
+import asyncio
 
 async def main():
     print('tim')
